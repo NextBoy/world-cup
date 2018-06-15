@@ -1,7 +1,7 @@
 <template>
   <div>
     <header>
-      <img src="../images/hd.png" alt="">
+      <img src="https://ak1.picdn.net/shutterstock/videos/31254571/thumb/7.jpg" alt="">
       <h1>精彩赛事</h1>
     </header>
     <div class="card-item-wrap">
@@ -47,8 +47,8 @@
   header {
     text-align: center;
     img {
-      width: 90vw;
-      height: 130px;
+      width: 85vw;
+      height: 48.5vw;
       border-radius: 5px;
       margin: 10px auto;
     }
